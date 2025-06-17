@@ -1,6 +1,6 @@
 # Elite Tech Internship (Data Analytics Track)
 
-This repository contains the four tasks I completed as part of the Elite Tech Intern Data Analytics Internship.
+This repository contains the three tasks that I completed as part of the Elite Tech Intern Data Analytics Internship.
 
 ## 📂 Tasks
 
