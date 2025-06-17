@@ -1,4 +1,4 @@
-# Task 1 - Build a Machine learning model to predict outcomes based on a dataset
+# Task 1 - Predictive Analysis using Machine Learning
 
 Project Title: Build a machine learning model (ex- regression or classification) to predict outcomes based on dataset Internship: Elite Tech Internship Program Task Focus: Data Cleaning, EDA, Feature Engineering & Model Building Tools & Technologies: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
