@@ -35,4 +35,5 @@ Built a working sentiment classifier using ML techniques
 Delivered visual and predictive insights
 
 ![image](https://github.com/user-attachments/assets/ff4e5cf4-3d7b-4472-b156-729a8357d6ad)
+![image](https://github.com/user-attachments/assets/dd5c6f4c-ec1d-4d6c-b99d-3f7a7d485c7e)
 
