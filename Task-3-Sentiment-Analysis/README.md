@@ -1,5 +1,5 @@
-# Hi
-Project Title: Sentiment Analysis using Machine Learning ##hi##
+# Task 3 - Sentiment Analysis
+Project Title: Sentiment Analysis on textual data using NLP
 Internship: Elite Tech Internship Program
 Task Focus: Text Preprocessing, EDA, Feature Engineering & Sentiment Classification
 Tools & Technologies: Python, Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn
